@@ -2,7 +2,7 @@
 layout: page
 title: hellow world
 permalink: /about/
-image: 21.jpg
+image: 20.jpg
 ---
 
-hellow world
+hello world
