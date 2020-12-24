@@ -1,6 +1,6 @@
 ---
 layout: page
-title: hellow world
+title: hello world
 permalink: /about/
 image: 20.jpg
 ---
