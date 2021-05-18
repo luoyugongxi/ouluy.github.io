@@ -1,6 +1,9 @@
-Zolan - Modern & Minimal Theme for Jekyll
-======
-Zolan is a minimal blog theme for Jekyll.
+用不了<font color=#FF0000>颜色</font>
+
+
+```
+<font color=#FF0000>颜色</font>
+```
 
 * * *
 
