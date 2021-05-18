@@ -1,5 +1,5 @@
 #baseurl: "/ouluy" # the subpath of your site, e.g. /blog
-url: "https://luoyugongxi.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ouluy.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
@@ -33,3 +33,11 @@ tag_permalink_style:  pretty
 sass:
   sass_dir: _sass
   style: compressed
+  
+  
+  
+# Deployment
+deploy:
+  type: git
+  repo: https://github.com/[new]/[new].github.io.git
+  branch: master
