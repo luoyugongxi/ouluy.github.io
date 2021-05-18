@@ -12,7 +12,7 @@ permalink: /about/
 
 
 
-![](https://github.com/ouluy/ouluy.github.io/blob/main/images/%E7%BB%83%E4%B9%A06.jpg)
+![头像](https://github.com/ouluy/ouluy.github.io/blob/main/_pages/321.jpg)
 
 
 
