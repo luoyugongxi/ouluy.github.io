@@ -1,10 +1,12 @@
 ---
 layout: page
-title: hello world
+#title: hello world
 permalink: /about/
-image: 练习6.jpg
+#image: 练习6.jpg
 
 ---
+
+![](https://github.com/ouluy/ouluy.github.io/blob/main/images/%E7%BB%83%E4%B9%A06.jpg)
 
 hello world
 
