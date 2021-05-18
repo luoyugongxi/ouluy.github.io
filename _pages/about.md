@@ -3,8 +3,6 @@ layout: page
 title: hello world
 permalink: /about/
 image: 练习6.jpg
-autosize :=true;
-Stretch :=true;
 
 ---
 
