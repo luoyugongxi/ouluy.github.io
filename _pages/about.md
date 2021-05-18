@@ -2,7 +2,10 @@
 layout: page
 title: hello world
 permalink: /about/
-image: 22.png
+image: 练习6.jpg
+autosize :=true;
+Stretch :=true;
+
 ---
 
 hello world
